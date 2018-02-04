@@ -6,4 +6,7 @@ function theBeatlesPlay(members, inst) {
   for (i = 0; i < members.length; i ++) {
     empty_array[i] = `${members[i]} plays ${inst[i]}`
   }
+
+  return empty_array;
 }
+alert()
