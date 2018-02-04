@@ -9,4 +9,3 @@ function theBeatlesPlay(members, inst) {
 
   return empty_array;
 }
-alert(theBeatlesPlay())
